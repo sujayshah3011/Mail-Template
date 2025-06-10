@@ -18,6 +18,10 @@ A powerful lead generation tool that automates personalized cold email template 
 - PostgreSQL database (we use Neon)
 - Google Gemini API key
 
+<img width="1121" alt="Screenshot 2025-06-10 at 11 38 28 PM" src="https://github.com/user-attachments/assets/42e1dde3-38d9-4134-9e3c-ed4ffdd00c3e" />
+<img width="1265" alt="Screenshot 2025-06-10 at 11 38 52 PM" src="https://github.com/user-attachments/assets/ed7557d3-a0df-44c1-a1f3-70614c8c1e73" />
+
+
 ### Installation
 
 1. **Clone and navigate to the project**:
@@ -106,6 +110,10 @@ LeadGen/
 
 - **leads**: `id`, `company_name`, `contact_name`, `industry`, `created_at`
 - **templates**: `id`, `lead_id`, `generated_at`, `subject`, `body`
+
+<img width="1436" alt="Screenshot 2025-06-10 at 11 37 54 PM" src="https://github.com/user-attachments/assets/f2a786dd-9c4a-466b-b293-2d7e4b8424f8" />
+<img width="1439" alt="Screenshot 2025-06-10 at 11 38 07 PM" src="https://github.com/user-attachments/assets/e6b11bdc-f88f-4934-b9c3-2baa5b19c2a2" />
+
 
 ## Technologies Used
 
